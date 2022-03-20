@@ -5,6 +5,12 @@
 ## Documentation
 
 ## Usage:
+Run in cmd:
+
+```
+git clone https://github.com/splitcomma/pands-project.git
+cd pands-project
+```
 
 ### Software requirements:
 
