@@ -22,5 +22,5 @@ cd pands-project
 ```
 
 ## References
-https://en.wikipedia.org/wiki/Iris_flower_data_set
-https://archive.ics.uci.edu/ml/datasets/iris
+-https://en.wikipedia.org/wiki/Iris_flower_data_set
+-https://archive.ics.uci.edu/ml/datasets/iris
