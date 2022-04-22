@@ -16,10 +16,15 @@ irisData = pd.read_csv('iris.csv')
 #  Setting columns
 irisData.columns = ["Sepal length","Sepal width","Petal length", "Petal width","Variety"]
 
-#Defining scatter plot with x and y axis
-plt.scatter(irisData["Sepal length"], irisData["Sepal width"])
+variety = irisData.iloc[: , -1]
 
-plt.title ("Sepal length and Sepal width")
-plt.xlabel ("Sepal length")
-plt.ylabel ("Sepal width")
-plt.show()
+print(variety.unique())
+
+
+#Defining scatter plot with x and y axis
+#plt.scatter(irisData["Sepal length"], irisData["Sepal width"])
+
+#plt.title ("Sepal length and Sepal width")
+#plt.xlabel ("Sepal length")
+#plt.ylabel ("Sepal width")
+#plt.show()
