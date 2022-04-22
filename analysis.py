@@ -13,6 +13,8 @@ import pandas as pd                # for reading the data file
 # Reading the data file:
 irisData = pd.read_csv('iris.csv')
 
+textFile = open ("summary.txt", "w")
+
 #  Setting columns
 irisData.columns = ["Sepal length","Sepal width","Petal length", "Petal width","Variety"]
 
