@@ -45,7 +45,11 @@ plt.show()
 
 
 
-
-
-
-#references https://stackoverflow.com/questions/27241253/print-the-unique-values-in-every-column-in-a-pandas-dataframe
+# References:
+# Scatter plot:
+# https://stackoverflow.com/questions/27241253/print-the-unique-values-in-every-column-in-a-pandas-dataframe
+# https://www.w3schools.com/python/matplotlib_scatter.asp
+# https://datagy.io/python-matplotlib/
+# https://www.geeksforgeeks.org/how-to-get-column-names-in-pandas-dataframe/
+# https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset
+# https://python-graph-gallery.com/43-use-categorical-variable-to-color-scatterplot-seaborn
