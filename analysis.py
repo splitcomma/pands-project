@@ -9,24 +9,43 @@
 
 import matplotlib.pyplot as plt    # creating the plots
 import pandas as pd                # for reading the data file
+import seaborn as sns
+#import pandas as pd
+#from matplotlib import pyplot as plot
 
 # Reading the data file:
 irisData = pd.read_csv('iris.csv')
 
-textFile = open ("summary.txt", "w")
+#textFile = open ("summary.txt", "w")
 
 #  Setting columns
-irisData.columns = ["Sepal length","Sepal width","Petal length", "Petal width","Variety"]
+# irisData.columns = ["SL" ,"SW","PL", "PW","Speices"]
 
-variety = irisData.iloc[: , -1]
+#speices = irisData.iloc[: , -1]
 
-print(variety.unique())
+#print(variety.unique())
 
 
 #Defining scatter plot with x and y axis
-#plt.scatter(irisData["Sepal length"], irisData["Sepal width"])
+#plot.scatter(irisData["SL"], irisData["SW"])
 
-#plt.title ("Sepal length and Sepal width")
-#plt.xlabel ("Sepal length")
-#plt.ylabel ("Sepal width")
-#plt.show()
+#x = irisData['SepalLengthCm']
+#y = irisData['SepalWidthCm']
+
+#x2 = irisData['PetalLengthCm']
+#y2 = irisData['PetalWidthCm']
+
+#plt.scatter(x , y, c = 'magenta')
+
+sns.scatterplot(x = "SepalLengthCm" , y = "SepalWidthCm", data = irisData, hue = "Species", palette = ['green', 'red', 'blue'])
+plt.show()
+sns.scatterplot(x = "PetalLengthCm" , y = "PetalWidthCm", data = irisData, hue = "Species", palette = ['green', 'red', 'blue'])               
+plt.show()
+
+
+
+
+
+
+
+#references https://stackoverflow.com/questions/27241253/print-the-unique-values-in-every-column-in-a-pandas-dataframe
