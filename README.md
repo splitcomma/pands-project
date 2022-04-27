@@ -21,7 +21,7 @@ Four features were measured from each sample: the length and the width of the se
 
 ## Usage:
 
-# Preprequisities in Windows:
+### Preprequisities in Windows:
 Git, Python, Anaconda, Jupyter installed
 
 Run in  cmd:
