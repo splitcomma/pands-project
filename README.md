@@ -21,11 +21,19 @@ Four features were measured from each sample: the length and the width of the se
 
 ## Usage:
 
-Run:
+Preprequisities in Windows:
+Git, Python, Anaconda, Jupyter installed
+Run in  cmd:
 
 ```
 git clone https://github.com/splitcomma/pands-project.git
+```
+Run in annaconda cmd:
+```
 cd pands-project
+```
+```
+jupyter analysis.ipynb
 ```
 
 ## References
