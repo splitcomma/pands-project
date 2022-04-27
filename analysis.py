@@ -55,11 +55,8 @@ plt.show()
 # https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset
 # https://python-graph-gallery.com/43-use-categorical-variable-to-color-scatterplot-seaborn
 # https://saralgyaan.com/posts/matplotlib-tutorial-in-python-chapter-6-scatter-plotting/
-
 # https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html
-
 # https://datagy.io/python-matplotlib/
-
 # https://seaborn.pydata.org/tutorial/distributions.html
 # https://seaborn.pydata.org/generated/seaborn.histplot.html
 # https://medium.com/geekculture/python-seaborn-statistical-data-visualization-in-plot-graph-f149f7a27c6e
