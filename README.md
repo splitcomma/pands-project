@@ -118,6 +118,9 @@ Length: 150, dtype: bool
 ### Scatter Plot
 
 ![Scatter](https://github.com/splitcomma/pands-project/blob/main/images/scatter_plot.png)
+![Scatter](https://github.com/splitcomma/pands-project/blob/main/images/scatter_plot2.png)
+![Scatter](https://github.com/splitcomma/pands-project/blob/main/images/scatter_plot3.png)
+![Scatter](https://github.com/splitcomma/pands-project/blob/main/images/scatter_plot4.png)
 
 ### Joint Plot
 
