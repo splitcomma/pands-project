@@ -19,8 +19,6 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 
 Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
 
-![Sepal Petal](https://github.com/splitcomma/pands-project/blob/main/images/sepal_petal.png)
-
 ## Summary output
 
 
@@ -116,6 +114,27 @@ Length: 150, dtype: bool
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram.png)
 
 ## Plots
+
+### Scatter Plot
+
+![Scatter](https://github.com/splitcomma/pands-project/blob/main/images/scatter_plot.png)
+
+### Joint Plot
+
+![Joint](https://github.com/splitcomma/pands-project/blob/main/images/joint_plot.png)
+
+### Swarm Plot
+
+![Swarm](https://github.com/splitcomma/pands-project/blob/main/images/swarm_plot.png)
+
+### Pair Plot
+
+![Pair](https://github.com/splitcomma/pands-project/blob/main/images/pair_plot.png)
+
+### Distribution Plot
+
+![Distribution](https://github.com/splitcomma/pands-project/blob/main/images/distribution_plot.png)
+
 
 ## Usage:
 
