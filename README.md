@@ -15,11 +15,11 @@ The program file called analysis.ipynb does:
 The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper. 
 
 The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). 
-![3 Iris Specie](iris_classes.png)
+![3 Iris Specie](images\iris_classes.png)
 
 Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
 
-![3 Sepal Petal](iris_classes.png)
+![3 Sepal Petal](images\iris_classes.png)
 
 ## Summary
 
