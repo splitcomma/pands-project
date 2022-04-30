@@ -4,7 +4,7 @@
 
 This project concerns the well-known Fisher’s Iris data set It is a research of the data set, inclluding documentation and code .
 
-The program file called analysis.ipynb does: 
+The program file called **analysis.ipynb** does: 
 
 1. Outputs a summary of each variable to a single text file,  
 2. Saves a histogram of each variable to png files, and  
@@ -14,10 +14,10 @@ The program file called analysis.ipynb does:
 
 The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper. 
 
-The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). 
+The data set consists of 50 samples from each of three species of Iris: Iris setosa, Iris virginica and Iris versicolor.
 ![3 Iris Species](https://github.com/splitcomma/pands-project/blob/main/images/iris_classes.png)
 
-Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
+Four features were measured from each sample: the **length** and the **width** of the **sepals** and **petals**, in centimeters.
 
 ## Summary output
 
