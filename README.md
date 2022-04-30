@@ -116,8 +116,9 @@ Length: 150, dtype: bool
 149  Iris-virginica  
 ---------------------------------------------------------------------------
 ```
+## Plots
 
-## Histogram
+### Histograms
 
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram2.png)
@@ -128,7 +129,6 @@ Length: 150, dtype: bool
 
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/hist_plot2.png)
 
-## Plots
 
 ### Scatter Plot
 
