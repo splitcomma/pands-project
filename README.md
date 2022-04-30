@@ -116,7 +116,6 @@ Length: 150, dtype: bool
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram2.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram3.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram4.png)
-![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram5.png)
 
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/hist_plot.png)
 
