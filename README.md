@@ -113,6 +113,14 @@ Length: 150, dtype: bool
 ## Histogram
 
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram.png)
+![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram2.png)
+![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram3.png)
+![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram4.png)
+![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram5.png)
+
+![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/hist_plot.png)
+
+![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/hist_plot2.png)
 
 ## Plots
 
@@ -123,13 +131,11 @@ Length: 150, dtype: bool
 ![Scatter](https://github.com/splitcomma/pands-project/blob/main/images/scatter_plot3.png)
 ![Scatter](https://github.com/splitcomma/pands-project/blob/main/images/scatter_plot4.png)
 
+![Scatter](https://github.com/splitcomma/pands-project/blob/main/images/striplot.png)
+
 ### Joint Plot
 
 ![Joint](https://github.com/splitcomma/pands-project/blob/main/images/joint_plot.png)
-
-### Swarm Plot
-
-![Swarm](https://github.com/splitcomma/pands-project/blob/main/images/swarm_plot.png)
 
 ### Pair Plot
 
