@@ -135,10 +135,6 @@ Length: 150, dtype: bool
 
 ![Pair](https://github.com/splitcomma/pands-project/blob/main/images/pair_plot.png)
 
-### Distribution Plot
-
-![Distribution](https://github.com/splitcomma/pands-project/blob/main/images/distribution_plot.png)
-
 
 ## Usage:
 
@@ -181,4 +177,6 @@ jupyter analysis.ipynb
 - https://seaborn.pydata.org/generated/seaborn.histplot.html
 - https://medium.com/geekculture/python-seaborn-statistical-data-visualization-in-plot-graph-f149f7a27c6e
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- https://eldoyle.github.io/PythonIntro/08-ReadingandWritingTextFiles/
+
 
