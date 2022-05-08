@@ -202,15 +202,24 @@ Pair plot turned out to be a very easy to use plotting method that auto generate
 ## Usage of the project:
 
 ### Preprequisities in Windows:
-Git, Python, Anaconda, Jupyter and VS code or PyCharm installed
+Git, Python, Anaconda, Jupyter installed
 
 Mid project switched from Python file to Jupyter Notebook file, first to experience different environments. Ease of use and prompt results of plots display convinced me to continue with Jupyter Notebook.
 
 ### Libraries needed and installed:
+Run in Anaconda cmd:
+
 ```
-    import seaborn as sns
-    import pandas as pd
-    import matplotlib.pyplot as plt 
+conda install jupyter
+```
+```
+conda install seaborn
+```
+```
+conda install pandas
+```
+```
+conda install matplotlib
 ```    
 
 Run in Command Prompt:
@@ -218,12 +227,12 @@ Run in Command Prompt:
 git clone https://github.com/splitcomma/pands-project.git
 ```
 
-Run in anaconda cmd:
+Run in Anaconda cmd:
 ```
 cd pands-project
 ```
 ```
-jupyter analysis.ipynb
+python -m notebook
 ```
 
 ## References
@@ -243,5 +252,3 @@ jupyter analysis.ipynb
 - https://medium.com/geekculture/python-seaborn-statistical-data-visualization-in-plot-graph-f149f7a27c6e
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - https://eldoyle.github.io/PythonIntro/08-ReadingandWritingTextFiles/
-
-
