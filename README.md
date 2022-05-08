@@ -21,8 +21,6 @@ Four features were measured from each sample: the **length** and the **width** o
 
 ## Summary output
 
-
-
 ```
 **********   Summary of the Iris Data set and its variables  **********   
 
@@ -131,7 +129,7 @@ Length: 150, dtype: bool
 147  Iris-virginica  
 148  Iris-virginica  
 149  Iris-virginica  
----------------------------------------------------------------------------
+---------------------
 
 ```
 ## Plots
@@ -139,6 +137,8 @@ Length: 150, dtype: bool
 ### Histograms
 
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram.png)
+![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram0.png)
+![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram1.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram2.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram3.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram4.png)
