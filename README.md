@@ -151,8 +151,6 @@ Length: 150, dtype: bool
 Histograms to visualize spread of Sepal length among the three species. Columns to indicate y axis the count of occurrence in the data set for centimeter values.
 Iris Setosa shows a low standard deviation and significantly shorter length compared to Versicolor and Virginica.
 
-Sepal and Petal ratio created as a quantitative relationship between Sepal length/Sepal width and for Petal Length / Petal width. The two histograms are showing significant difference between the ratios for Setosa. Unique characteristics on standard deviation that is adverse for Sepal and Petal ratio.
-
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram.png)
 
 Sepal and Petal ratio created as a quantitative relationship between Sepal length/Sepal width and for Petal Length / Petal width. The two histograms are showing significant difference between the ratios for Setosa. Unique characteristics on standard deviation that is adverse for Sepal and Petal ratio.
@@ -163,9 +161,11 @@ Sepal and Petal ratio created as a quantitative relationship between Sepal lengt
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram3.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram4.png)
 
-Seaborn histplot was an experiment that did not bring me closer to relevant conclusions. Underneath similar experiment to utilize newly learnt statistical expression "kernel density estimation (KDE) is a non-parametric way to estimate the probability density".
+Seaborn histplot was an experiment that did not bring me closer to relevant conclusions.
 
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/hist_plot.png)
+
+Underneath similar experiment to utilize newly learnt statistical expression "kernel density estimation (KDE) is a non-parametric way to estimate the probability density".
 
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/hist_plot2.png)
 
@@ -200,7 +200,7 @@ Pair plot turned out to be a very easy to use plotting method that auto generate
 ![Pair](https://github.com/splitcomma/pands-project/blob/main/images/pair_plot.png)
 
 
-## Usage:
+## Usage of the project:
 
 ### Preprequisities in Windows:
 Git, Python, Anaconda, Jupyter installed
@@ -212,7 +212,7 @@ Git, Python, Anaconda, Jupyter installed
     import matplotlib.pyplot as plt 
 ```    
 
-Run in  cmd:
+Run in Command Prompt:
 ```
 git clone https://github.com/splitcomma/pands-project.git
 ```
