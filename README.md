@@ -227,7 +227,7 @@ Run in Command Prompt:
 git clone https://github.com/splitcomma/pands-project.git
 ```
 
-#### Running the app:
+#### Running the pands-project:
 Run in Anaconda cmd:
 ```
 cd pands-project
