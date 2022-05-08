@@ -159,7 +159,6 @@ Sepal and Petal ratio created as a quantitative relationship between Sepal lengt
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram1.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram2.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram3.png)
-![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram4.png)
 
 Seaborn histplot was an experiment that did not bring me closer to relevant conclusions.
 
@@ -168,6 +167,7 @@ Seaborn histplot was an experiment that did not bring me closer to relevant conc
 Underneath similar experiment to utilize newly learnt statistical expression "kernel density estimation (KDE) is a non-parametric way to estimate the probability density".
 
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/hist_plot2.png)
+![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram4.png)
 
 
 ### Scatter Plot
