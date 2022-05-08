@@ -19,7 +19,19 @@ The data set consists of 50 samples from each of three species of Iris: Iris set
 
 Four features were measured from each sample: the **length** and the **width** of the **sepals** and **petals**, in centimeters.
 
+## About the data and visualization
+
+We have a relatively small data set consisting 150 lines on three different species of Iris flowers 50/50/50 lines of each.
+Each line of data consist of 4 measurements that can be grouped by length and width of Petal and Sepal parts of each flower.
+It is worthwhile mentioning that only two of the species were collected on the same island and pasture.
+I have failed to find more details on the collection methodology and although the above mentioned two species where collected on the same land, there is no indication of time as a dimension.
+
 ## Summary output
+
+Familiarizing with the data set printing out the top 5 lines, results of sum the Iris data lead to no significant conclusion.
+By displaying covariance and correlation, attempted to see if petal and sepal length figures are moving together among the three species and the strength of relationship between the two variables, receiving mixed covariance (negative/positive) with weak correlation.
+
+Summarizing the Iris data section first calculated basic statistical expressions such as min/max/mean/standard deviation. First section on the entire data set and underneath for each species supporting easier comparison. Iris Setosa has the lowest mean, standard deviation and min/max values when Sepal width is examined.
 
 ```
 **********   Summary of the Iris Data set and its variables  **********   
@@ -136,6 +148,11 @@ Length: 150, dtype: bool
 
 ### Histograms
 
+Histograms to visualize spread of Sepal length among the three species. Columns to indicate y axis the count of occurrence in the data set for centimeter values.
+Iris Setosa shows a low standard deviation and significantly shorter length compared to Versicolor and Virginica.
+
+Sepal and Petal ratio created as a quantitative relationship between Sepal length/Sepal width and for Petal Length / Petal width. The two histograms are showing significant difference between the ratios for Setosa. Unique characteristics on standard deviation that is adverse for Sepal and Petal ratio.
+
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram0.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram1.png)
@@ -143,12 +160,22 @@ Length: 150, dtype: bool
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram3.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram4.png)
 
+Seaborn histplot was an experiment that did not bring me closer to relevant conclusions. Underneath similar experiment to utilize newly learnt statistical expression "kernel density estimation (KDE) is a non-parametric way to estimate the probability density".
+
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/hist_plot.png)
 
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/hist_plot2.png)
 
 
 ### Scatter Plot
+
+Observations based on the scatterplots follows:
+
+On Sepal length among the three species 
+While Setosa has smaller length but a greater width, Virginica shows opposite features to Setosa.
+ 
+On Petal length among the three species 
+Setosa has significantly smaller length and width compared to the other two species. Versicolor and Virginica are much closer on this aspect with the latter taking the lead.
 
 ![Scatter](https://github.com/splitcomma/pands-project/blob/main/images/scatter_plot.png)
 ![Scatter](https://github.com/splitcomma/pands-project/blob/main/images/scatter_plot2.png)
@@ -159,9 +186,13 @@ Length: 150, dtype: bool
 
 ### Joint Plot
 
+Joint plot added as an experiment, output in current format looks visually very intriguing but single color condensing all three species carries low amount of information to help better understand our data.
+
 ![Joint](https://github.com/splitcomma/pands-project/blob/main/images/joint_plot.png)
 
 ### Pair Plot
+
+Pair plot turned out to be a very easy to use plotting method that auto generated almost all my scatter and histplots in a quick and compact matrix format.
 
 ![Pair](https://github.com/splitcomma/pands-project/blob/main/images/pair_plot.png)
 
