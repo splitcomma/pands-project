@@ -26,7 +26,7 @@ Each line of data consist of 4 measurements that can be grouped by length and wi
 It is worthwhile mentioning that only two of the species were collected on the same island and pasture.
 I have failed to find more details on the collection methodology and although the above mentioned two species where collected on the same land, there is no indication of time as a dimension.
 
-## Summary output
+### Summary output
 
 Familiarizing with the data set printing out the top 5 lines, results of sum the Iris data lead to no significant conclusion.
 By displaying covariance and correlation, attempted to see if petal and sepal length figures are moving together among the three species and the strength of relationship between the two variables, receiving mixed covariance (negative/positive) with weak correlation.
@@ -144,7 +144,7 @@ Length: 150, dtype: bool
 ---------------------
 
 ```
-## Plots
+## Plots:
 
 ### Histograms
 
@@ -154,6 +154,9 @@ Iris Setosa shows a low standard deviation and significantly shorter length comp
 Sepal and Petal ratio created as a quantitative relationship between Sepal length/Sepal width and for Petal Length / Petal width. The two histograms are showing significant difference between the ratios for Setosa. Unique characteristics on standard deviation that is adverse for Sepal and Petal ratio.
 
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram.png)
+
+Sepal and Petal ratio created as a quantitative relationship between Sepal length/Sepal width and for Petal Length / Petal width. The two histograms are showing significant difference between the ratios for Setosa. Unique characteristics on standard deviation that is adverse for Sepal and Petal ratio.
+
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram0.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram1.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram2.png)
