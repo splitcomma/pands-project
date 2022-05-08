@@ -198,7 +198,7 @@ Pair plot turned out to be a very easy to use plotting method that auto generate
 ## Usage of the project:
 
 #### Preprequisities in Windows:
-Git, Python, Anaconda, Jupyter installed
+Git, Python, Anaconda installed
 
 Mid project switched from Python file to Jupyter Notebook file, first to experience different environments. Ease of use and prompt results of plots display convinced me to continue with Jupyter Notebook.
 
