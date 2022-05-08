@@ -9,7 +9,9 @@ The program file called **analysis.ipynb** does:
 1. Outputs a summary of each variable to a single text file,  
 2. Saves histogram of each variable to png files, and  
 3. Outputs a scatter plot of each pair of variables,
-4. Plus other plots and analysis.
+4. Performs other analysis.
+
+Mid project switched from Python file to Jupyter notebook file, first to experience different environments. Ease of use and prompt results of plots display convinced me to continue with Jupyter Notebook.
 
 ## Background
 
@@ -199,8 +201,6 @@ Pair plot turned out to be a very easy to use plotting method that auto generate
 
 #### Preprequisities in Windows:
 Git, Python, Anaconda installed
-
-Mid project switched from Python file to Jupyter Notebook file, first to experience different environments. Ease of use and prompt results of plots display convinced me to continue with Jupyter Notebook.
 
 #### Libraries needed and installed:
 Run in Anaconda cmd:
