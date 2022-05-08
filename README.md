@@ -201,12 +201,12 @@ Pair plot turned out to be a very easy to use plotting method that auto generate
 
 ## Usage of the project:
 
-### Preprequisities in Windows:
+#### Preprequisities in Windows:
 Git, Python, Anaconda, Jupyter installed
 
 Mid project switched from Python file to Jupyter Notebook file, first to experience different environments. Ease of use and prompt results of plots display convinced me to continue with Jupyter Notebook.
 
-### Libraries needed and installed:
+#### Libraries needed and installed:
 Run in Anaconda cmd:
 
 ```
@@ -221,12 +221,13 @@ conda install pandas
 ```
 conda install matplotlib
 ```    
-
+#### Cloning the repository:
 Run in Command Prompt:
 ```
 git clone https://github.com/splitcomma/pands-project.git
 ```
 
+#### Running the app:
 Run in Anaconda cmd:
 ```
 cd pands-project
