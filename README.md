@@ -24,7 +24,7 @@ Four features were measured from each sample: the **length** and the **width** o
 
 
 ```
- **********   Summary of the Iris Data set and its variables  **********   
+**********   Summary of the Iris Data set and its variables  **********   
 
               Heading the first 5 lines of the Iris Data
 ---------------------------------------------------------------------------
@@ -45,14 +45,6 @@ Species           Iris-setosaIris-setosaIris-setosaIris-setosaIr...
 dtype: object
 ---------------------------------------------------------------------------
                     Covariance matrix of the Iris Data
----------------------------------------------------------------------------
-                SepalLength_Cm  SepalWidth_Cm  PetalLength_Cm  PetalWidth_Cm
-SepalLength_Cm        0.685694      -0.039268        1.273682       0.516904
-SepalWidth_Cm        -0.039268       0.188004       -0.321713      -0.117981
-PetalLength_Cm        1.273682      -0.321713        3.113179       1.296387
-PetalWidth_Cm         0.516904      -0.117981        1.296387       0.582414
----------------------------------------------------------------------------
-                      Ranking Iris Data
 ---------------------------------------------------------------------------
                 SepalLength_Cm  SepalWidth_Cm  PetalLength_Cm  PetalWidth_Cm
 SepalLength_Cm        0.685694      -0.039268        1.273682       0.516904
@@ -115,6 +107,7 @@ Length: 150, dtype: bool
 148  Iris-virginica  
 149  Iris-virginica  
 ---------------------------------------------------------------------------
+
 ```
 ## Plots
 
