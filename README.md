@@ -35,7 +35,7 @@ By displaying covariance and correlation, attempted to see if petal and sepal le
 Summarizing the Iris data section first calculated basic statistical expressions such as min/max/mean/standard deviation. First section on the entire data set and underneath for each species supporting easier comparison. Iris Setosa has the lowest mean, standard deviation and min/max values when Sepal width is examined.
 
 ```
-**********   Summary of the Iris Data set and its variables  **********   
+ **********   Summary of the Iris Data set and its variables  **********   
 
               Heading the first 5 lines of the Iris Data
 ---------------------------------------------------------------------------
@@ -46,7 +46,7 @@ Summarizing the Iris data section first calculated basic statistical expressions
 3             4.6            3.1             1.5            0.2  Iris-setosa
 4             5.0            3.6             1.4            0.2  Iris-setosa
 ---------------------------------------------------------------------------
-                    Sum the Iris Data
+                    Sum of the Iris Data
 ---------------------------------------------------------------------------
 SepalLength_Cm                                                876.5
 SepalWidth_Cm                                                 458.1
@@ -83,7 +83,7 @@ min          4.300000       2.000000        1.000000       0.100000
 75%          6.400000       3.300000        5.100000       1.800000
 max          7.900000       4.400000        6.900000       2.500000
 ---------------------------------------------------------------------------
-                    Summarizing the Iris Data
+              Summarizing the Iris Data grouped by Species
 ---------------------------------------------------------------------------
                 SepalLength_Cm                                              \
                          count   mean       std  min    25%  50%  75%  max   
@@ -123,10 +123,6 @@ Iris-virginica   2.026  0.274650  1.4  1.8  2.0  2.3  2.5
 149    False
 Length: 150, dtype: bool
 ---------------------------------------------------------------------------
-                    Number of rows and columns the Iris Data
----------------------------------------------------------------------------
-(150, 5)
----------------------------------------------------------------------------
               Printing the last 5 rows Iris Data
 ---------------------------------------------------------------------------
      SepalLength_Cm  SepalWidth_Cm  PetalLength_Cm  PetalWidth_Cm  \
@@ -142,7 +138,7 @@ Length: 150, dtype: bool
 147  Iris-virginica  
 148  Iris-virginica  
 149  Iris-virginica  
----------------------
+---------------------------------------------------------------------------
 
 ```
 ## Plots:
