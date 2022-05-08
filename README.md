@@ -156,7 +156,6 @@ Iris Setosa shows a low standard deviation and significantly shorter length comp
 
 Sepal and Petal ratio created as a quantitative relationship between Sepal length/Sepal width and for Petal Length / Petal width. The two histograms are showing significant difference between the ratios for Setosa. Unique characteristics on standard deviation that is adverse for Sepal and Petal ratio.
 
-![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram0.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram1.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram2.png)
 ![Histogram](https://github.com/splitcomma/pands-project/blob/main/images/histogram3.png)
