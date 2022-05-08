@@ -23,9 +23,9 @@ Four features were measured from each sample: the **length** and the **width** o
 ## About the data and visualization
 
 We have a relatively small data set consisting 150 lines on three different species of Iris flowers 50/50/50 lines of each.
-Each line of data consist of 4 measurements that can be grouped by length and width of Petal and Sepal parts of each flower.
+All the lines of data consist of 4 measurements that can be grouped by length and width of Petal and Sepal parts of each flower.
 It is worthwhile mentioning that only two of the species were collected on the same island and pasture.
-I have failed to find more details on the collection methodology and although the above mentioned two species where collected on the same land, there is no indication of time as a dimension.
+I have failed to find more details on the collection methodology and although the above mentioned two species where collected on the same land, there is no indication of time frame. As flowers are living and growing organisms with petal and sepal length constantly changing, we assume that below measurements are snapshots of the different stages of growth.
 
 ### Summary output
 
@@ -199,11 +199,12 @@ Pair plot turned out to be a very easy to use plotting method that auto generate
 
 ![Pair](https://github.com/splitcomma/pands-project/blob/main/images/pair_plot.png)
 
-
 ## Usage of the project:
 
 ### Preprequisities in Windows:
-Git, Python, Anaconda, Jupyter installed
+Git, Python, Anaconda, Jupyter and VS code or PyCharm installed
+
+Mid project switched from Python file to Jupyter Notebook file, first to experience different environments. Ease of use and prompt results of plots display convinced me to continue with Jupyter Notebook.
 
 ### Libraries needed and installed:
 ```
